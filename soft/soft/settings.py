@@ -25,7 +25,7 @@ SECRET_KEY = 'swg#c9^6%$cv3(=1z_j_sg8vcy88cub0m1mjgr=yt@!0^2)h_$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["*"]
 
 
 # Application definition
